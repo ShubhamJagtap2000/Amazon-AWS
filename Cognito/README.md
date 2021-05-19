@@ -15,7 +15,7 @@
 **1. Enhanced Security**\
 **2. Cross-Platform Consistancy**\
 **3. Guest and Social Media logins**\
-**4. MFA and Password Policies\
+**4. MFA and Password Policies**\
 **5. Marketing Analytics**
 
 # User Pool vs. Identity Pool
