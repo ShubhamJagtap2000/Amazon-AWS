@@ -27,3 +27,9 @@
 
 **Both of these components can be used separately or together depending upon requirement**
 
+# Cognito Best Practices
+
+**1. Integrate AWS with Mobile SDK**\
+**2. Monitor Cognito metrics and log API activities**\
+**3. Multi-Factor Authenticatiom(MFA)**\
+**4. Adaptive Authentication withRisk-Based Model**
