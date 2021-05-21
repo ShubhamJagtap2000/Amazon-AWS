@@ -12,4 +12,4 @@
 
 **[2.Amazon DynamoDB](https://github.com/ShubhamJagtap2000/Amazon-AWS/tree/main/AWS%20Dynamo%20DB)**
 
-**[3.IWASIoT](https://github.com/ShubhamJagtap2000/Amazon-AWS/tree/main/AWS%20IoT)**
+**[3.AWS IoT](https://github.com/ShubhamJagtap2000/Amazon-AWS/tree/main/AWS%20IoT)**
