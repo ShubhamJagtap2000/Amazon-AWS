@@ -11,8 +11,8 @@
 
 # Fundamental Components of DynamoDB
 
-**1. Attribute:** The simplest element in DynamoDB that stores data without any further division. It's like the fundamental element of this database solution.
-**2. Item:** Holds a set of attributes in a table. Set of attributes that can uniquely define your entry in a table. e.g. An item in Employee Records will identify asingle employee.
+**1. Attribute:** The simplest element in DynamoDB that stores data without any further division. It's like the fundamental element of this database solution.\
+**2. Item:** Holds a set of attributes in a table. Set of attributes that can uniquely define your entry in a table. e.g. An item in Employee Records will identify asingle employee.\
 **3. Table:** Holds a set of items. e.g. Employee Records will have Employee Name, Employee Id, Employee Addressand Phone number all will be stored in a table.
 
 ![Screenshot (209)](https://user-images.githubusercontent.com/63872951/118961917-76813b80-b982-11eb-9350-38038ce52d2d.png)
@@ -31,6 +31,7 @@
 
 
 # Why DynamoDB?
+**Reasons why DYnamoDB is preffered
 
 ![Screenshot (210)](https://user-images.githubusercontent.com/63872951/118962545-1c34aa80-b983-11eb-8d14-e577b7470a29.png)
 
