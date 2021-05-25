@@ -5,7 +5,7 @@
 - Amazon AWS IoT is an Amazon Web Services platform that collects and analyzes data from internet-connected devices and sensors and connects that data to AWS cloud applications
 - An AWS user accesses the AWS IoT services using AWS Management Console, SDKs(Software Development Kits) or AWS Command-line interface
 
-**[Source Video](https://youtu.be/WAp6FHbhYCk)**
+**[Introductory Video](https://youtu.be/WAp6FHbhYCk)**
 
 ## AWS IoT Services include 2 parts as follows:
 
