@@ -28,4 +28,4 @@
 
 ## Key concepts for AWS IoT Greengrass
 
-### 1. Greengrass core device
+### [1. Greengrass core device](https://github.com/ShubhamJagtap2000/Amazon-AWS/tree/main/AWS%20IoT%20Greengrass/Greengrass-Core-Device)
