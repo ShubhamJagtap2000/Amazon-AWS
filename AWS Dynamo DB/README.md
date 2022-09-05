@@ -31,7 +31,7 @@
 
 
 # Why DynamoDB?
-**Reasons why DYnamoDB is preffered
+**Reasons why DYnamoDB is preffered**
 
 ![Screenshot (210)](https://user-images.githubusercontent.com/63872951/118962545-1c34aa80-b983-11eb-8d14-e577b7470a29.png)
 
